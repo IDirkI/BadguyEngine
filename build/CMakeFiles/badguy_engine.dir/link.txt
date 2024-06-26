@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/badguy_engine.dir/src/main.cpp.o  -o badguy_engine  -lSDL2 

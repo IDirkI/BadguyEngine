@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dirk/code/badguy_engine/build",
+  "command": "/usr/bin/c++   -I/usr/include/SDL2  -g   -o CMakeFiles/badguy_engine.dir/src/main.cpp.o -c /home/dirk/code/badguy_engine/src/main.cpp",
+  "file": "/home/dirk/code/badguy_engine/src/main.cpp"
+}
+]
