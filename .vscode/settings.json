@@ -1,0 +1,9 @@
+{
+    "ros.distro": "humble",
+    "files.associations": {
+        "complex": "cpp",
+        "limits": "cpp",
+        "sstream": "cpp",
+        "functional": "cpp"
+    }
+}
